@@ -24,9 +24,6 @@ public class PagamentoService {
     private ModelMapper modelMapper;
 
     @Autowired
-    private PagamentoService pagamentoService;
-
-    @Autowired
     private PedidoClient pedidoClient;
 
 
